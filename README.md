@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension add images to attribute options displayed in layered navigation.
